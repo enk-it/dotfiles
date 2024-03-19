@@ -266,4 +266,9 @@
     "return-type": "json"
 },
 
+"hyprland/language": {
+	"format": "  {}"
+},
+
+
 }
