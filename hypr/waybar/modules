@@ -270,5 +270,8 @@
 	"format": "  {}"
 },
 
+"hyprland/window": {
+    "format": "{}"
+  },
 
 }
